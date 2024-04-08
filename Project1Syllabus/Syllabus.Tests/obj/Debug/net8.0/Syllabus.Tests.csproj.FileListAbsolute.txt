@@ -1,0 +1,6 @@
+C:\Users\kt376\Desktop\Revature\Spring 2024\Projects\Project1Syllabus\Syllabus.Tests\bin\Debug\net8.0\CoverletSourceRootsMapping_Syllabus.Tests
+C:\Users\kt376\Desktop\Revature\Spring 2024\Projects\Project1Syllabus\Syllabus.Tests\obj\Debug\net8.0\Syllabus.Tests.csproj.AssemblyReference.cache
+C:\Users\kt376\Desktop\Revature\Spring 2024\Projects\Project1Syllabus\Syllabus.Tests\obj\Debug\net8.0\Syllabus.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kt376\Desktop\Revature\Spring 2024\Projects\Project1Syllabus\Syllabus.Tests\obj\Debug\net8.0\Syllabus.Tests.AssemblyInfoInputs.cache
+C:\Users\kt376\Desktop\Revature\Spring 2024\Projects\Project1Syllabus\Syllabus.Tests\obj\Debug\net8.0\Syllabus.Tests.AssemblyInfo.cs
+C:\Users\kt376\Desktop\Revature\Spring 2024\Projects\Project1Syllabus\Syllabus.Tests\obj\Debug\net8.0\Syllabus.Tests.csproj.CoreCompileInputs.cache
