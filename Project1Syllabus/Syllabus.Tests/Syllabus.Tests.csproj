@@ -21,7 +21,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Syllabus\Syllabus.csproj" />
+    <ProjectReference Include="..\Syllabus\Project1Syllabus.csproj" />
   </ItemGroup>
 
 </Project>

@@ -1,6 +1,6 @@
 namespace Project1Syllabus;
 
-class MenuMain 
+public class MenuMain 
 {   
     
     public static void PrintMainMenu()

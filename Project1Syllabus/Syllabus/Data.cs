@@ -39,7 +39,6 @@ public static void LoadGrades(ref List<ClassGrades> gradeList){
             string filePath = "gradeList.json";
             string jsonStudentGrades = File.ReadAllText(filePath);
 
-            // students is assigned the deserialized list of students from the jsonStudents string. 
             gradeList = JsonSerializer.Deserialize<List<ClassGrades>>(jsonStudentGrades);
             
             foreach(ClassGrades gradelist in gradeList){
@@ -56,11 +55,8 @@ public static void LoadGrades(ref List<ClassGrades> gradeList){
     //Write to the file
     public static void PersistStudents(List<ClassStudents> students){
 
-        //Serializing the list of Student objects to a JSON string
+        //Serializing the list of ClassStudent objects to a JSON string
         string jsonStudents = JsonSerializer.Serialize(students);
-
-        //Verified that we created a JSON representation of our list
-        //Console.WriteLine(jsonStudents);
 
         string filePath = "studentList.json";
 
@@ -74,15 +70,10 @@ public static void LoadGrades(ref List<ClassGrades> gradeList){
         //Serializing the list of ClassGrades objects to a JSON string
         string jsonGradeList = JsonSerializer.Serialize(gradeList);
 
-        //Verified that we created a JSON representation of our list
-        //Console.WriteLine(jsonGradeList);
-
         string filePath = "gradeList.json";
-        //string filePath = "gradeList.txt";
-
+        
         File.WriteAllText(filePath, jsonGradeList);
-        //File.AppendAllText(filePath, jsonGradeList);
-
+        
     }
 
     

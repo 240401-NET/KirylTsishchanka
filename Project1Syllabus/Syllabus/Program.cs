@@ -1,11 +1,27 @@
 ﻿using System.Security.Cryptography.X509Certificates;
+using Microsoft.EntityFrameworkCore;
 
 namespace Project1Syllabus;
 
-class Program
+public class Program
 {
     static void Main(string[] args)
     {
+        
+        string connectionString="Server=tcp:tkirylpr1.database.windows.net,1433;Initial Catalog=ktProject1net;Persist Security Info=False;User ID=kiryl;Password=Kitdb2024!;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;";
+
+        var optionsBuilder=new DbContextOptionsBuilder<KtProject1netContext>();
+        optionsBuilder.UseSqlServer(connectionString);
+
+        KtProject1netContext context = new KtProject1netContext(optionsBuilder.Options);
+
+        IEnumerable<DbStudent> customers=context.DbStudents;
+
+        Console.WriteLine("There are "+customers.Count()+" students in the group.");
+        
+        
+        
+        
         int userInput = -1;
         int studentInput = -1;
         int instructorInput = -1;

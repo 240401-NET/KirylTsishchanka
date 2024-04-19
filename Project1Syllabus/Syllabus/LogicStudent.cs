@@ -4,7 +4,7 @@ using System.Text.Json.Serialization;
 
 namespace Project1Syllabus;
 
-class LogicStudent
+public class LogicStudent
 {
 
     public static double GradeCalculator(

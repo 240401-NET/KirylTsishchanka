@@ -3,14 +3,14 @@ namespace Project1Syllabus;
 public class ClassGrades 
 {   // Fields/properties
     //shorthand to avoid getters and setters
-    public double? attendance {get; set;}
-    public double? quiz {get; set;}
-    public double? midterm1 {get; set;}
-    public double? midterm2 {get; set;}
-    public double? finalExam {get; set;}
-    public double? total {get; set;}
-    public double? totalPl {get; set;}
-    public string? letterGrade {get; set;}
+    public double attendance {get; set;}
+    public double quiz {get; set;}
+    public double midterm1 {get; set;}
+    public double midterm2 {get; set;}
+    public double finalExam {get; set;}
+    public double total {get; set;}
+    public double totalPl {get; set;}
+    public string letterGrade {get; set;}
     
     //Constructors
     

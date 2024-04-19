@@ -4,7 +4,7 @@ using System.Text.Json.Serialization;
 
 namespace Project1Syllabus;
 
-class LogicInstructor 
+public class LogicInstructor 
 {
     
     public static void DisplayAllStudents(){
@@ -44,30 +44,37 @@ class LogicInstructor
         Console.WriteLine("Attendance");
         
         newStudent.attendance = Validation.userChoiceCheck();
-
+        double at=newStudent.attendance;
+        
         Console.WriteLine("Quiz");
         
         newStudent.quiz = Validation.userChoiceCheck();
-
+        double qz=newStudent.quiz;
+        
         Console.WriteLine("Midterm 1");
         
         newStudent.midterm1 = Validation.userChoiceCheck();
-
+        double m1=newStudent.midterm1;
+        
         Console.WriteLine("Midterm 2");
         
         newStudent.midterm2 = Validation.userChoiceCheck();
-
+        double m2=newStudent.midterm2;
+        
         Console.WriteLine("Final Exam");
         
         newStudent.finalExam = Validation.userChoiceCheck();
-
-        Console.WriteLine("Total");
+        double fn=newStudent.finalExam;
         
-        newStudent.total = Validation.userChoiceCheck();
-
-        Console.WriteLine("Letter grade");
+        //Console.WriteLine("Total");
         
-        newStudent.letterGrade = Console.ReadLine();
+        //newStudent.total = Validation.userChoiceCheck();
+        newStudent.total = LogicStudent.GradeCalculatorPlus(at, qz, m1, m2, fn);
+
+        //Console.WriteLine("Letter grade");
+        
+        //newStudent.letterGrade = Console.ReadLine();
+        newStudent.letterGrade = LogicStudent.LetterGrade(LogicStudent.GradeCalculatorPlus(at, qz, m1, m2, fn));
 
         List<ClassStudents> studentList = new();
         Data.LoadStudents(ref studentList);

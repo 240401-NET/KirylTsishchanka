@@ -1,6 +1,6 @@
 namespace Project1Syllabus;
 
-class Validation 
+public class Validation 
 {
 
     
@@ -14,10 +14,9 @@ class Validation
         {
         
             try{
-            return Convert.ToInt32(Console.ReadLine());
+            userCh=Convert.ToInt32(Console.ReadLine());
         } catch(Exception){
             Console.WriteLine("Entry was invalid. Please try again!");
-            return userCh;
         }
 
 
@@ -38,10 +37,9 @@ class Validation
         {
         
             try{
-            return Convert.ToDouble(Console.ReadLine());
+            userCh= Convert.ToDouble(Console.ReadLine());
         } catch(Exception){
             Console.WriteLine("Entry was invalid. Please try again!");
-            return userCh;
         }
 
 

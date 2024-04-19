@@ -3,20 +3,17 @@ namespace Project1Syllabus;
 public class ClassStudents 
 {   // Fields/properties
     //shorthand to avoid getters and setters
-    public int? idNumber {get; set;}
-    public string? lastName {get; set;}
-    public string? firstName {get; set;}
-    public double? attendance {get; set;}
-    public double? quiz {get; set;}
-    public double? midterm1 {get; set;}
-    public double? midterm2 {get; set;}
-    public double? finalExam {get; set;}
-    public double? total {get; set;}
-    public string? letterGrade {get; set;}
-    //public string? userClass {get;set;}
-    //public int? age {get; set;}
-    //public int? hitpoints {get;set;}
-
+    public int idNumber {get; set;}
+    public string lastName {get; set;}
+    public string firstName {get; set;}
+    public double attendance {get; set;}
+    public double quiz {get; set;}
+    public double midterm1 {get; set;}
+    public double midterm2 {get; set;}
+    public double finalExam {get; set;}
+    public double total {get; set;}
+    public string letterGrade {get; set;}
+    
     //Constructors
     
     //No argument constructor

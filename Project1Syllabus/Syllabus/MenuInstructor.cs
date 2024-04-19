@@ -1,6 +1,6 @@
 namespace Project1Syllabus;
 
-class MenuInstructor 
+public class MenuInstructor 
 {   
     
     public static void PrintInstructorMenu()

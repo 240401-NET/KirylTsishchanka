@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kt376\\Desktop\\Revature\\Spring 2024\\Projects\\Project1Syllabus\\Syllabus\\Syllabus.csproj": {}
+    "C:\\Users\\kt376\\Desktop\\Revature\\Spring 2024\\Test\\Project1Syllabus\\Syllabus\\Syllabus.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kt376\\Desktop\\Revature\\Spring 2024\\Projects\\Project1Syllabus\\Syllabus\\Syllabus.csproj": {
+    "C:\\Users\\kt376\\Desktop\\Revature\\Spring 2024\\Test\\Project1Syllabus\\Syllabus\\Syllabus.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kt376\\Desktop\\Revature\\Spring 2024\\Projects\\Project1Syllabus\\Syllabus\\Syllabus.csproj",
+        "projectUniqueName": "C:\\Users\\kt376\\Desktop\\Revature\\Spring 2024\\Test\\Project1Syllabus\\Syllabus\\Syllabus.csproj",
         "projectName": "Syllabus",
-        "projectPath": "C:\\Users\\kt376\\Desktop\\Revature\\Spring 2024\\Projects\\Project1Syllabus\\Syllabus\\Syllabus.csproj",
+        "projectPath": "C:\\Users\\kt376\\Desktop\\Revature\\Spring 2024\\Test\\Project1Syllabus\\Syllabus\\Syllabus.csproj",
         "packagesPath": "C:\\Users\\kt376\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kt376\\Desktop\\Revature\\Spring 2024\\Projects\\Project1Syllabus\\Syllabus\\obj\\",
+        "outputPath": "C:\\Users\\kt376\\Desktop\\Revature\\Spring 2024\\Test\\Project1Syllabus\\Syllabus\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kt376\\AppData\\Roaming\\NuGet\\NuGet.Config"
