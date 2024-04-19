@@ -1,0 +1,14 @@
+C:\Users\kt376\Desktop\Revature\Spring 2024\Projects\Project1Registration\consoleFE\bin\Debug\net6.0\consoleFE.exe
+C:\Users\kt376\Desktop\Revature\Spring 2024\Projects\Project1Registration\consoleFE\bin\Debug\net6.0\consoleFE.deps.json
+C:\Users\kt376\Desktop\Revature\Spring 2024\Projects\Project1Registration\consoleFE\bin\Debug\net6.0\consoleFE.runtimeconfig.json
+C:\Users\kt376\Desktop\Revature\Spring 2024\Projects\Project1Registration\consoleFE\bin\Debug\net6.0\consoleFE.dll
+C:\Users\kt376\Desktop\Revature\Spring 2024\Projects\Project1Registration\consoleFE\bin\Debug\net6.0\consoleFE.pdb
+C:\Users\kt376\Desktop\Revature\Spring 2024\Projects\Project1Registration\consoleFE\obj\Debug\net6.0\consoleFE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kt376\Desktop\Revature\Spring 2024\Projects\Project1Registration\consoleFE\obj\Debug\net6.0\consoleFE.AssemblyInfoInputs.cache
+C:\Users\kt376\Desktop\Revature\Spring 2024\Projects\Project1Registration\consoleFE\obj\Debug\net6.0\consoleFE.AssemblyInfo.cs
+C:\Users\kt376\Desktop\Revature\Spring 2024\Projects\Project1Registration\consoleFE\obj\Debug\net6.0\consoleFE.csproj.CoreCompileInputs.cache
+C:\Users\kt376\Desktop\Revature\Spring 2024\Projects\Project1Registration\consoleFE\obj\Debug\net6.0\consoleFE.dll
+C:\Users\kt376\Desktop\Revature\Spring 2024\Projects\Project1Registration\consoleFE\obj\Debug\net6.0\refint\consoleFE.dll
+C:\Users\kt376\Desktop\Revature\Spring 2024\Projects\Project1Registration\consoleFE\obj\Debug\net6.0\consoleFE.pdb
+C:\Users\kt376\Desktop\Revature\Spring 2024\Projects\Project1Registration\consoleFE\obj\Debug\net6.0\consoleFE.genruntimeconfig.cache
+C:\Users\kt376\Desktop\Revature\Spring 2024\Projects\Project1Registration\consoleFE\obj\Debug\net6.0\ref\consoleFE.dll

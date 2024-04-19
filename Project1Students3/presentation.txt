@@ -1,0 +1,134 @@
+For StudentRegistration and StudentLogin:
+
+{
+  "studentId": 0,
+  "username": "Kiryl_Tsishchanka@gmail.com",
+  "userpassword": "somepswd"
+}
+
+{
+  "studentId": 0,
+  "username": "John_Smith@gmail.com",
+  "userpassword": "mynewp!"
+}
+
+{
+  "studentId": 0,
+  "username": "Peter_Lee@gmail.com",
+  "userpassword": "Abgt2!!"
+}
+
+{
+  "studentId": 0,
+  "username": "Michael_Williams@gmail.com",
+  "userpassword": "EasyPasNotEasy"
+}
+
+{
+  "studentId": 0,
+  "username": "Nik_Gold@gmail.com",
+  "userpassword": "hit75h"
+}
+
+
+
+
+
+
+For P1GradesFormTest:
+
+{
+  "gradesFormId": 0,
+  "firstName": "Sam",
+  "lastName": "Brook",
+  "underGrad": "Grad",
+  "oldGrade": "A-",
+  "newGrade": "A",
+  "rDescription": "Computational Error",
+  "rStatus": "Pending"
+}
+
+{
+  "gradesFormId": 0,
+  "firstName": "Jason",
+  "lastName": "Last",
+  "underGrad": "Grad",
+  "oldGrade": "B",
+  "newGrade": "B+",
+  "rDescription": "Computational Error",
+  "rStatus": "Pending"
+}
+
+{
+  "gradesFormId": 0,
+  "firstName": "George",
+  "lastName": "Marcos",
+  "underGrad": "Grad",
+  "oldGrade": "B+",
+  "newGrade": "A-",
+  "rDescription": "Makeup",
+  "rStatus": "Pending"
+}
+
+
+
+{
+  "gradesFormId": 0,
+  "firstName": "John",
+  "lastName": "Smith",
+  "underGrad": "Undergrad",
+  "oldGrade": "C+",
+  "newGrade": "B-",
+  "rDescription": "Makeup",
+  "rStatus": "Pending"
+}
+
+{
+  "gradesFormId": 0,
+  "firstName": "Peter",
+  "lastName": "Lee",
+  "underGrad": "Undergrad",
+  "oldGrade": "B-",
+  "newGrade": "B",
+  "rDescription": "Computational Error",
+  "rStatus": "Pending"
+}
+
+
+{
+  "gradesFormId": 0,
+  "firstName": "Peter",
+  "lastName": "Lee",
+  "underGrad": "Undergrad",
+  "oldGrade": "B+",
+  "newGrade": "A-",
+  "rDescription": "Makeup",
+  "rStatus": "Pending"
+}
+
+{
+  "gradesFormId": 0,
+  "firstName": "Michael",
+  "lastName": "Williams",
+  "underGrad": "Undergrad",
+  "oldGrade": "C-",
+  "newGrade": "C",
+  "rDescription": "Makeup",
+  "rStatus": "Pending"
+}
+
+{
+  "gradesFormId": 0,
+  "firstName": "Michaell",
+  "lastName": "Williams",
+  "underGrad": "Undergrad",
+  "oldGrade": "A-",
+  "newGrade": "A",
+  "rDescription": "Computational Error",
+  "rStatus": "Pending"
+}
+
+
+
+
+
