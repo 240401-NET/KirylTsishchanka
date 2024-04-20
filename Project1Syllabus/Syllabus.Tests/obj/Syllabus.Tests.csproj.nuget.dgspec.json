@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kt376\\Desktop\\Revature\\Spring 2024\\Projects\\Project0Syllabus\\Syllabus.Tests\\Syllabus.Tests.csproj": {}
+    "C:\\Users\\kt376\\Desktop\\Revature\\Spring 2024\\Projects\\Project0\\1-Submitted\\Project0Syllabus-submitted_e\\Syllabus.Tests\\Syllabus.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kt376\\Desktop\\Revature\\Spring 2024\\Projects\\Project0Syllabus\\Syllabus.Tests\\Syllabus.Tests.csproj": {
+    "C:\\Users\\kt376\\Desktop\\Revature\\Spring 2024\\Projects\\Project0\\1-Submitted\\Project0Syllabus-submitted_e\\Syllabus.Tests\\Syllabus.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kt376\\Desktop\\Revature\\Spring 2024\\Projects\\Project0Syllabus\\Syllabus.Tests\\Syllabus.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\kt376\\Desktop\\Revature\\Spring 2024\\Projects\\Project0\\1-Submitted\\Project0Syllabus-submitted_e\\Syllabus.Tests\\Syllabus.Tests.csproj",
         "projectName": "Syllabus.Tests",
-        "projectPath": "C:\\Users\\kt376\\Desktop\\Revature\\Spring 2024\\Projects\\Project0Syllabus\\Syllabus.Tests\\Syllabus.Tests.csproj",
+        "projectPath": "C:\\Users\\kt376\\Desktop\\Revature\\Spring 2024\\Projects\\Project0\\1-Submitted\\Project0Syllabus-submitted_e\\Syllabus.Tests\\Syllabus.Tests.csproj",
         "packagesPath": "C:\\Users\\kt376\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kt376\\Desktop\\Revature\\Spring 2024\\Projects\\Project0Syllabus\\Syllabus.Tests\\obj\\",
+        "outputPath": "C:\\Users\\kt376\\Desktop\\Revature\\Spring 2024\\Projects\\Project0\\1-Submitted\\Project0Syllabus-submitted_e\\Syllabus.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kt376\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,8 +26,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\kt376\\Desktop\\Revature\\Spring 2024\\Projects\\Project0Syllabus\\Syllabus\\Project1Syllabus.csproj": {
-                "projectPath": "C:\\Users\\kt376\\Desktop\\Revature\\Spring 2024\\Projects\\Project0Syllabus\\Syllabus\\Project1Syllabus.csproj"
+              "C:\\Users\\kt376\\Desktop\\Revature\\Spring 2024\\Projects\\Project0\\1-Submitted\\Project0Syllabus-submitted_e\\Syllabus\\Project1Syllabus.csproj": {
+                "projectPath": "C:\\Users\\kt376\\Desktop\\Revature\\Spring 2024\\Projects\\Project0\\1-Submitted\\Project0Syllabus-submitted_e\\Syllabus\\Project1Syllabus.csproj"
               }
             }
           }
@@ -84,14 +84,14 @@
         }
       }
     },
-    "C:\\Users\\kt376\\Desktop\\Revature\\Spring 2024\\Projects\\Project0Syllabus\\Syllabus\\Project1Syllabus.csproj": {
+    "C:\\Users\\kt376\\Desktop\\Revature\\Spring 2024\\Projects\\Project0\\1-Submitted\\Project0Syllabus-submitted_e\\Syllabus\\Project1Syllabus.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kt376\\Desktop\\Revature\\Spring 2024\\Projects\\Project0Syllabus\\Syllabus\\Project1Syllabus.csproj",
+        "projectUniqueName": "C:\\Users\\kt376\\Desktop\\Revature\\Spring 2024\\Projects\\Project0\\1-Submitted\\Project0Syllabus-submitted_e\\Syllabus\\Project1Syllabus.csproj",
         "projectName": "Project1Syllabus",
-        "projectPath": "C:\\Users\\kt376\\Desktop\\Revature\\Spring 2024\\Projects\\Project0Syllabus\\Syllabus\\Project1Syllabus.csproj",
+        "projectPath": "C:\\Users\\kt376\\Desktop\\Revature\\Spring 2024\\Projects\\Project0\\1-Submitted\\Project0Syllabus-submitted_e\\Syllabus\\Project1Syllabus.csproj",
         "packagesPath": "C:\\Users\\kt376\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kt376\\Desktop\\Revature\\Spring 2024\\Projects\\Project0Syllabus\\Syllabus\\obj\\",
+        "outputPath": "C:\\Users\\kt376\\Desktop\\Revature\\Spring 2024\\Projects\\Project0\\1-Submitted\\Project0Syllabus-submitted_e\\Syllabus\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kt376\\AppData\\Roaming\\NuGet\\NuGet.Config"

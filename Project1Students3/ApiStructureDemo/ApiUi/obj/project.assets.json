@@ -2837,11 +2837,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kt376\\Desktop\\Revature\\Spring 2024\\Projects\\Project1Students3\\ApiStructureDemo\\ApiUi\\ApiUi.csproj",
+      "projectUniqueName": "C:\\Users\\kt376\\Desktop\\Revature\\Spring 2024\\Git\\KirylTsishchanka\\Project1Students3\\ApiStructureDemo\\ApiUi\\ApiUi.csproj",
       "projectName": "ApiUi",
-      "projectPath": "C:\\Users\\kt376\\Desktop\\Revature\\Spring 2024\\Projects\\Project1Students3\\ApiStructureDemo\\ApiUi\\ApiUi.csproj",
+      "projectPath": "C:\\Users\\kt376\\Desktop\\Revature\\Spring 2024\\Git\\KirylTsishchanka\\Project1Students3\\ApiStructureDemo\\ApiUi\\ApiUi.csproj",
       "packagesPath": "C:\\Users\\kt376\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kt376\\Desktop\\Revature\\Spring 2024\\Projects\\Project1Students3\\ApiStructureDemo\\ApiUi\\obj\\",
+      "outputPath": "C:\\Users\\kt376\\Desktop\\Revature\\Spring 2024\\Git\\KirylTsishchanka\\Project1Students3\\ApiStructureDemo\\ApiUi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kt376\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -2856,11 +2856,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\kt376\\Desktop\\Revature\\Spring 2024\\Projects\\Project1Students3\\ApiStructureDemo\\BusinessLayer\\BusinessLayer.csproj": {
-              "projectPath": "C:\\Users\\kt376\\Desktop\\Revature\\Spring 2024\\Projects\\Project1Students3\\ApiStructureDemo\\BusinessLayer\\BusinessLayer.csproj"
+            "C:\\Users\\kt376\\Desktop\\Revature\\Spring 2024\\Git\\KirylTsishchanka\\Project1Students3\\ApiStructureDemo\\BusinessLayer\\BusinessLayer.csproj": {
+              "projectPath": "C:\\Users\\kt376\\Desktop\\Revature\\Spring 2024\\Git\\KirylTsishchanka\\Project1Students3\\ApiStructureDemo\\BusinessLayer\\BusinessLayer.csproj"
             },
-            "C:\\Users\\kt376\\Desktop\\Revature\\Spring 2024\\Projects\\Project1Students3\\ApiStructureDemo\\ModelsLayer\\ModelsLayer.csproj": {
-              "projectPath": "C:\\Users\\kt376\\Desktop\\Revature\\Spring 2024\\Projects\\Project1Students3\\ApiStructureDemo\\ModelsLayer\\ModelsLayer.csproj"
+            "C:\\Users\\kt376\\Desktop\\Revature\\Spring 2024\\Git\\KirylTsishchanka\\Project1Students3\\ApiStructureDemo\\ModelsLayer\\ModelsLayer.csproj": {
+              "projectPath": "C:\\Users\\kt376\\Desktop\\Revature\\Spring 2024\\Git\\KirylTsishchanka\\Project1Students3\\ApiStructureDemo\\ModelsLayer\\ModelsLayer.csproj"
             }
           }
         }

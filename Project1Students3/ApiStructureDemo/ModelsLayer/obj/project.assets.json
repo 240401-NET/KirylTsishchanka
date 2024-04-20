@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kt376\\Desktop\\Revature\\Spring 2024\\Projects\\Project1Students3\\ApiStructureDemo\\ModelsLayer\\ModelsLayer.csproj",
+      "projectUniqueName": "C:\\Users\\kt376\\Desktop\\Revature\\Spring 2024\\Git\\KirylTsishchanka\\Project1Students3\\ApiStructureDemo\\ModelsLayer\\ModelsLayer.csproj",
       "projectName": "ModelsLayer",
-      "projectPath": "C:\\Users\\kt376\\Desktop\\Revature\\Spring 2024\\Projects\\Project1Students3\\ApiStructureDemo\\ModelsLayer\\ModelsLayer.csproj",
+      "projectPath": "C:\\Users\\kt376\\Desktop\\Revature\\Spring 2024\\Git\\KirylTsishchanka\\Project1Students3\\ApiStructureDemo\\ModelsLayer\\ModelsLayer.csproj",
       "packagesPath": "C:\\Users\\kt376\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kt376\\Desktop\\Revature\\Spring 2024\\Projects\\Project1Students3\\ApiStructureDemo\\ModelsLayer\\obj\\",
+      "outputPath": "C:\\Users\\kt376\\Desktop\\Revature\\Spring 2024\\Git\\KirylTsishchanka\\Project1Students3\\ApiStructureDemo\\ModelsLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kt376\\AppData\\Roaming\\NuGet\\NuGet.Config"

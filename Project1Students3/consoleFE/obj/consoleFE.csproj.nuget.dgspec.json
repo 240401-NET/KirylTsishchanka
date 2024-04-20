@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kt376\\Desktop\\Revature\\Spring 2024\\Projects\\Project1Students3\\consoleFE\\consoleFE.csproj": {}
+    "C:\\Users\\kt376\\Desktop\\Revature\\Spring 2024\\Git\\KirylTsishchanka\\Project1Students3\\consoleFE\\consoleFE.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kt376\\Desktop\\Revature\\Spring 2024\\Projects\\Project1Students3\\consoleFE\\consoleFE.csproj": {
+    "C:\\Users\\kt376\\Desktop\\Revature\\Spring 2024\\Git\\KirylTsishchanka\\Project1Students3\\consoleFE\\consoleFE.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kt376\\Desktop\\Revature\\Spring 2024\\Projects\\Project1Students3\\consoleFE\\consoleFE.csproj",
+        "projectUniqueName": "C:\\Users\\kt376\\Desktop\\Revature\\Spring 2024\\Git\\KirylTsishchanka\\Project1Students3\\consoleFE\\consoleFE.csproj",
         "projectName": "consoleFE",
-        "projectPath": "C:\\Users\\kt376\\Desktop\\Revature\\Spring 2024\\Projects\\Project1Students3\\consoleFE\\consoleFE.csproj",
+        "projectPath": "C:\\Users\\kt376\\Desktop\\Revature\\Spring 2024\\Git\\KirylTsishchanka\\Project1Students3\\consoleFE\\consoleFE.csproj",
         "packagesPath": "C:\\Users\\kt376\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kt376\\Desktop\\Revature\\Spring 2024\\Projects\\Project1Students3\\consoleFE\\obj\\",
+        "outputPath": "C:\\Users\\kt376\\Desktop\\Revature\\Spring 2024\\Git\\KirylTsishchanka\\Project1Students3\\consoleFE\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kt376\\AppData\\Roaming\\NuGet\\NuGet.Config"
