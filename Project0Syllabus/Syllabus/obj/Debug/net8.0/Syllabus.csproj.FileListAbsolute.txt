@@ -1,0 +1,14 @@
+C:\Users\kt376\Desktop\Revature\Spring 2024\Projects\Project1Syllabus\Syllabus\bin\Debug\net8.0\Syllabus.exe
+C:\Users\kt376\Desktop\Revature\Spring 2024\Projects\Project1Syllabus\Syllabus\bin\Debug\net8.0\Syllabus.deps.json
+C:\Users\kt376\Desktop\Revature\Spring 2024\Projects\Project1Syllabus\Syllabus\bin\Debug\net8.0\Syllabus.runtimeconfig.json
+C:\Users\kt376\Desktop\Revature\Spring 2024\Projects\Project1Syllabus\Syllabus\bin\Debug\net8.0\Syllabus.dll
+C:\Users\kt376\Desktop\Revature\Spring 2024\Projects\Project1Syllabus\Syllabus\bin\Debug\net8.0\Syllabus.pdb
+C:\Users\kt376\Desktop\Revature\Spring 2024\Projects\Project1Syllabus\Syllabus\obj\Debug\net8.0\Syllabus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kt376\Desktop\Revature\Spring 2024\Projects\Project1Syllabus\Syllabus\obj\Debug\net8.0\Syllabus.AssemblyInfoInputs.cache
+C:\Users\kt376\Desktop\Revature\Spring 2024\Projects\Project1Syllabus\Syllabus\obj\Debug\net8.0\Syllabus.AssemblyInfo.cs
+C:\Users\kt376\Desktop\Revature\Spring 2024\Projects\Project1Syllabus\Syllabus\obj\Debug\net8.0\Syllabus.csproj.CoreCompileInputs.cache
+C:\Users\kt376\Desktop\Revature\Spring 2024\Projects\Project1Syllabus\Syllabus\obj\Debug\net8.0\Syllabus.dll
+C:\Users\kt376\Desktop\Revature\Spring 2024\Projects\Project1Syllabus\Syllabus\obj\Debug\net8.0\refint\Syllabus.dll
+C:\Users\kt376\Desktop\Revature\Spring 2024\Projects\Project1Syllabus\Syllabus\obj\Debug\net8.0\Syllabus.pdb
+C:\Users\kt376\Desktop\Revature\Spring 2024\Projects\Project1Syllabus\Syllabus\obj\Debug\net8.0\Syllabus.genruntimeconfig.cache
+C:\Users\kt376\Desktop\Revature\Spring 2024\Projects\Project1Syllabus\Syllabus\obj\Debug\net8.0\ref\Syllabus.dll
