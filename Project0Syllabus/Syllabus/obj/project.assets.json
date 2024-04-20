@@ -4111,11 +4111,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kt376\\Desktop\\Revature\\Spring 2024\\Projects\\Project0\\1-Submitted\\Project0Syllabus-submitted_e\\Syllabus\\Project1Syllabus.csproj",
+      "projectUniqueName": "C:\\Users\\kt376\\Desktop\\Revature\\Spring 2024\\Git\\KirylTsishchanka\\Project0Syllabus\\Syllabus\\Project1Syllabus.csproj",
       "projectName": "Project1Syllabus",
-      "projectPath": "C:\\Users\\kt376\\Desktop\\Revature\\Spring 2024\\Projects\\Project0\\1-Submitted\\Project0Syllabus-submitted_e\\Syllabus\\Project1Syllabus.csproj",
+      "projectPath": "C:\\Users\\kt376\\Desktop\\Revature\\Spring 2024\\Git\\KirylTsishchanka\\Project0Syllabus\\Syllabus\\Project1Syllabus.csproj",
       "packagesPath": "C:\\Users\\kt376\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kt376\\Desktop\\Revature\\Spring 2024\\Projects\\Project0\\1-Submitted\\Project0Syllabus-submitted_e\\Syllabus\\obj\\",
+      "outputPath": "C:\\Users\\kt376\\Desktop\\Revature\\Spring 2024\\Git\\KirylTsishchanka\\Project0Syllabus\\Syllabus\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kt376\\AppData\\Roaming\\NuGet\\NuGet.Config"
